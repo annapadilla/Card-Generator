@@ -1,0 +1,13 @@
+body {
+    background: green
+}
+.card {
+	width: 200px;
+    height: 400px;
+    background: white;
+    margin: 0 auto;
+}
+.bottom-suit {
+  font-size: 22px;
+  transform:rotate(-180deg);
+}
